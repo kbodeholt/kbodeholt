@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Kristian Bodeholt 👋
 
-<!--
-**kbodeholt/kbodeholt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Senior Security Specialist and aspring Security Architect / Manager 💻, Veteran 🔫, and InfoSec Community Organizer 🏴‍☠️
 
-Here are some ideas to get you started:
+If you have any question/feedback, please do not hesitate to reach out to me, links are in my GitHub profile in the sidebar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I'm currently working on
+
+- CTI Projects
+- [VSec InfoSec Community](https://vsec.dk)
+
+## 🌱 I'm currently learning/studying
+
+- [CISSP-ISSAP](https://www.isc2.org/Certifications/CISSP-Concentrations#tab-2-1) - Information Systems Security Architecture Professional
+
+## 💼 Technical Skills
+
+Please refer to my LinkedIn profile.
