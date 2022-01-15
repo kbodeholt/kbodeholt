@@ -2,7 +2,11 @@
 
 #### I'm a Senior Security Specialist and aspring Security Architect / Manager 💻, Veteran 🔫, and InfoSec Community Organizer 🏴‍☠️
 
-If you have any question/feedback, please do not hesitate to reach out to me, links are in my GitHub profile in the sidebar!
+If you have any question/feedback, please do not hesitate to reach out to me
+
+## 📫 How to reach me
+
+- [kristian@bodeholt.com](mailto:kristian@bodeholt.com)
 
 ## 🔭 I'm currently working on
 
@@ -15,4 +19,4 @@ If you have any question/feedback, please do not hesitate to reach out to me, li
 
 ## 💼 Technical Skills
 
-Please refer to my LinkedIn profile.
+- Please refer to my [LinkedIn profile](https://www.linkedin.com/in/kristianbodeholt/).
