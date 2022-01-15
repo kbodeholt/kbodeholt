@@ -1,6 +1,6 @@
 # Hi there, I'm Kristian Bodeholt 👋
 
-#### I'm a Senior Security Specialist and aspring Security Architect / Manager 💻, Veteran 🔫, and InfoSec Community Organizer 🏴‍☠️
+#### I'm a Senior Security Specialist and aspring Security Architect / Manager 💻, Veteran, and InfoSec Community Organizer 🏴‍☠️
 
 If you have any question/feedback, please do not hesitate to reach out to me
 
