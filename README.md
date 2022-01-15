@@ -17,6 +17,6 @@ If you have any question/feedback, please do not hesitate to reach out to me
 
 - [CISSP-ISSAP](https://www.isc2.org/Certifications/CISSP-Concentrations#tab-2-1) - Information Systems Security Architecture Professional
 
-## 💼 Technical Skills
+## 💼 Technical skills
 
 - Please refer to my [LinkedIn profile](https://www.linkedin.com/in/kristianbodeholt/).
