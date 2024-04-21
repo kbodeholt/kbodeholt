@@ -1,8 +1,8 @@
 # Hi there, I'm Kristian Bodeholt 👋
 
-#### I'm a Senior Security Specialist 💻, Veteran, and InfoSec Community Organizer 🏴‍☠️
+#### I'm a IT Security Nerd & Manager 💻, Veteran, and InfoSec Community Organizer 🏴‍☠️
 
-If you have any question/feedback, please do not hesitate to reach out to me
+If you have any questions/feedback, please do not hesitate to reach out to me
 
 ## 📫 How to reach me
 
